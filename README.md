@@ -332,6 +332,7 @@ if ($sort === 'duration') {
     <?php endforeach; ?>
 </table>
 ```
+![](images/2.png)
 
 ## Шаг 5. Дополнительная функция
 
